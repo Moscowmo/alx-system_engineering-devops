@@ -1,2 +1,1 @@
-shell scripts
-
+this a my first readme file
