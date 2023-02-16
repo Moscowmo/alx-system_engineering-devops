@@ -1,3 +1,2 @@
 #!/bin/bash
-cp -un *.html .. /
-
+cut -c 1 | paste -s -d '
